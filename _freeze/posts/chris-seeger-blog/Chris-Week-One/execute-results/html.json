@@ -1,0 +1,14 @@
+{
+  "hash": "882dd849b20006f57fc712a7248005bc",
+  "result": {
+    "markdown": "---\ntitle: \"Week 1 Blog\"\nauthor: \"Chris Seeger\"\ndate: \"2023-05-23\"\ncategories: \"Week One\"\n---\n\n\n## Thi\n\n\n::: {.cell}\n\n```{.r .cell-code}\ninstall.packages(c(\"tidycensus\", \"tidyverse\"))\nlibrary(tidycensus)\nlibrary(tidyverse)\n\nvars <- load_variables(2021, \"acs5\")\nView(vars)\n```\n:::\n\n\n\n::: {.cell}\n\n:::\n\n\n\\\n\n## It is actually Week 2\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
