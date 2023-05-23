@@ -1,11 +1,11 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Christopher J. Seeger"
 date: "2023-05-20"
-categories: [news Stuff]
+categories: [about]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is Chris's first post in a Quarto blog. Welcome!
 
 ![](thumbnail.jpg)
 
