@@ -1,0 +1,6 @@
+---
+title: "Week 1 Blog"
+author: "Chris Seeger"
+date: "2023-05-23"
+categories: [Week One]
+---
