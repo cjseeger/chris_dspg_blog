@@ -2,5 +2,28 @@
 title: "Week 1 Blog"
 author: "Chris Seeger"
 date: "2023-05-23"
-categories: [Week One]
+categories: "Week One"
 ---
+
+## Thi
+
+```{r warning=FALSE, message=FALSE, eval=FALSE}
+install.packages(c("tidycensus", "tidyverse"))
+library(tidycensus)
+library(tidyverse)
+
+vars <- load_variables(2021, "acs5")
+View(vars)
+```
+
+```{r include=FALSE}
+
+```
+
+```{r eval=FALSE}
+
+```
+
+\
+
+## It is actually Week 2
