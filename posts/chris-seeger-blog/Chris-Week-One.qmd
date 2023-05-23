@@ -5,6 +5,8 @@ date: "2023-05-23"
 categories: "Week One"
 ---
 
+# Chris's DSPG Blog
+
 ```{r warning=FALSE, message=FALSE, eval=FALSE}
 install.packages(c("tidycensus", "tidyverse"))
 library(tidycensus)
@@ -15,13 +17,11 @@ View(vars)
 ```
 
 ```{r include=FALSE}
-
+x = 2
 ```
 
 ```{r eval=FALSE}
-
+y = 4
 ```
-
-\
 
 ## It is actually week 2 today!
