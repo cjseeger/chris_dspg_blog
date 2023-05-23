@@ -2,8 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/chris-seeger-blog/Chris-Week-One.html",
       "/posts/post-with-code/index.html",
+      "/posts/week2/index.html",
       "/posts/welcome/index.html"
     ]
   }
