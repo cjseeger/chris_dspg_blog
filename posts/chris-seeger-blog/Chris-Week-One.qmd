@@ -5,7 +5,7 @@ date: "2023-05-23"
 categories: "Week One"
 ---
 
-# Chris's DSPG Blog
+# Chris's DSPG Blog for 2023.
 
 ```{r warning=FALSE, message=FALSE, eval=FALSE}
 install.packages(c("tidycensus", "tidyverse"))
