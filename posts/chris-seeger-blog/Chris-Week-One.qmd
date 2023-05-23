@@ -24,4 +24,4 @@ View(vars)
 
 \
 
-## It is actually Week 2
+## It is actually week 2 today!
