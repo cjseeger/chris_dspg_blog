@@ -15,7 +15,7 @@ library(tidyverse)
 vars <- load_variables(2021, "acs5")
 View(vars)
 ```
-### Eaxample of an embeded Tableau Dashboard
+### Example of an embeded Tableau Dashboard
 
 ```{r include=FALSE}
 x = 2
