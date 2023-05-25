@@ -18,7 +18,7 @@
     "href": "posts/week2/index.html",
     "title": "Week 2 Blog",
     "section": "",
-    "text": "Chris’s DSPG Blog for 2023.\n\ninstall.packages(c(\"tidycensus\", \"tidyverse\"))\nlibrary(tidycensus)\nlibrary(tidyverse)\n\nvars <- load_variables(2021, \"acs5\")\nView(vars)\n\n\nEaxample of an embeded Tableau Dashboard\n\ny = 4"
+    "text": "Chris’s DSPG Blog for 2023.\n\ninstall.packages(c(\"tidycensus\", \"tidyverse\"))\nlibrary(tidycensus)\nlibrary(tidyverse)\n\nvars <- load_variables(2021, \"acs5\")\nView(vars)\n\n\nExample of an embeded Tableau Dashboard\n\n<script type=\"module\" src=\"https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js\"></script>\n\n  <div style=\"width:800px; height:700px;\">\n<tableau-viz id=\"tableauViz\" src=\"  https://public.tableau.com/app/profile/christopher.seeger/viz/IowaLanguagesSpoken/Dashboard1\" toolbar=\"bottom\" hide-tabs>\n</tableau-viz>\n    </div>\n\n\n\n\n\n  \n  \n  Chris Practice\n  \n     \n    \n  \n  \n\n  \n  \n\n\nTrying to display a Tableau page."
   },
   {
     "objectID": "index.html",

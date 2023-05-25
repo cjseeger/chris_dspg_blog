@@ -216,13 +216,53 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>vars <span class="ot">&lt;-</span> <span class="fu">load_variables</span>(<span class="dv">2021</span>, <span class="st">"acs5"</span>)</span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">View</span>(vars)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<section id="eaxample-of-an-embeded-tableau-dashboard" class="level3">
-<h3 class="anchored" data-anchor-id="eaxample-of-an-embeded-tableau-dashboard">Eaxample of an embeded Tableau Dashboard</h3>
+<section id="example-of-an-embeded-tableau-dashboard" class="level3">
+<h3 class="anchored" data-anchor-id="example-of-an-embeded-tableau-dashboard">Example of an embeded Tableau Dashboard</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>y <span class="ot">=</span> <span class="dv">4</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode html code-with-copy"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;script</span><span class="ot"> type=</span><span class="st">"module"</span> <span class="er">src</span><span class="ot">=</span><span class="st">"https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js"</span><span class="kw">&gt;&lt;/script&gt;</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="kw">&lt;div</span> <span class="er">style</span><span class="ot">=</span><span class="st">"width:800px; height:700px;"</span><span class="kw">&gt;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;tableau-viz</span> <span class="er">id</span><span class="ot">=</span><span class="st">"tableauViz"</span> <span class="er">src</span><span class="ot">=</span><span class="st">"  https://public.tableau.com/app/profile/christopher.seeger/viz/IowaLanguagesSpoken/Dashboard1"</span> <span class="er">toolbar</span><span class="ot">=</span><span class="st">"bottom"</span> <span class="er">hide-tabs</span><span class="kw">&gt;</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="kw">&lt;/tableau-viz&gt;</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>    <span class="kw">&lt;/div&gt;</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 
-<iframe width="1500px" height="2027px" style="border: 0px;" src="https://public.tableau.com/views/TheWideningDivide/01"></iframe>
+
+
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Chris Practice</title>
+  
+     <!-- Tableau JS API-->
+    <script type="text/javascript" src="https://tableau.vdl.iastate.edu/javascripts/api/tableau-2.min.js"></script>
+  
+  
+
+  
+  
+
+
+Trying to display a Tableau page.
+  <script>
+  var containerDiv = document.getElementById("vizContainer"),
+
+          url = "https://tableau.vdl.iastate.edu/t/COMXT/views/CountyEnglishLanguageK-12/CountyK-12EL",
+
+          options = {
+            hideTabs: true,
+            hideToolbar: true,
+            onFirstInteractive: function() {
+              console.log("Run this code when the viz has finished loading.");
+            }
+          };
+
+        viz = new tableau.Viz(containerDiv, url, options);
+        // Create a viz object and embed it in the container div.
+  </script>
+  
+
+
 
 
 </section>
