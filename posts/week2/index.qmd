@@ -30,7 +30,6 @@ x = 2
 </tableau-viz>
     </div>
 ```
-
 ```{=html}
 <!DOCTYPE html>
 <html>
