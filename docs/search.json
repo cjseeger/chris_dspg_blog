@@ -21,6 +21,13 @@
     "text": "Chris’s DSPG Blog for 2023.\n\ninstall.packages(c(\"tidycensus\", \"tidyverse\"))\nlibrary(tidycensus)\nlibrary(tidyverse)\n\nvars <- load_variables(2021, \"acs5\")\nView(vars)\n\n\nExample of an embeded Tableau Dashboard\n\n\n\n  \n\n\n    \n\n\n\n  \n  \n  Chris Practice\n  \n     \n    \n  \n  \n\n  \n  \n\n\nTrying to display a Tableau page."
   },
   {
+    "objectID": "posts/week3/index.html",
+    "href": "posts/week3/index.html",
+    "title": "Week 3 Blog",
+    "section": "",
+    "text": "Chris’s DSPG Blog for 2023 - This is week 3.\nNo class on Monday! It is Memorial Day!\n\nj = \"Hello World\"\nj\n\n[1] \"Hello World\""
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "chris_dspg_blog",
@@ -33,12 +40,5 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "posts/week3/index.html",
-    "href": "posts/week3/index.html",
-    "title": "Week 3 Blog",
-    "section": "",
-    "text": "Chris’s DSPG Blog for 2023 - This is week 3.\nNo class on Monday! It is Memorial Day!\n\nj = \"Hello World\"\nj\n\n[1] \"Hello World\""
   }
 ]
