@@ -1,0 +1,14 @@
+{
+  "hash": "0664b1a2d697bee186882abf586df592",
+  "result": {
+    "markdown": "---\ntitle: \"Week 3 Blog\"\nauthor: \"Chris Seeger\"\ndate: \"2023-05-29\"\ncategories: \"Week Three\"\n---\n\n\n# Chris's DSPG Blog for 2023 - This is week 3.\n\nNo class on Monday!\n\n\n::: {.cell}\n\n```{.r .cell-code}\nj = \"Hello World\"\nj\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Hello World\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
