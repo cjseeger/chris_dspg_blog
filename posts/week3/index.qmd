@@ -13,3 +13,7 @@ No class on Monday! It is Memorial Day!
 j = "Hello World"
 j
 ```
+
+Tried out a fly on an old fly rod and was successful!
+
+![](bluegill.jpg)
