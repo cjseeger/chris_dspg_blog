@@ -7,7 +7,7 @@ categories: "Week Three"
 
 # Chris's DSPG Blog for 2023 - This is week 3.
 
-No class on Monday!
+No class on Monday! It is Memorial Day!
 
 ```{r}
 j = "Hello World"
