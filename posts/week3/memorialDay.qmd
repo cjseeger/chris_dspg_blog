@@ -1,0 +1,19 @@
+---
+title: "Week 3 Blog"
+author: "Chris Seeger"
+date: "2023-05-29"
+categories: "Week Three"
+---
+
+# Chris's DSPG Blog for 2023 - This is week 3.
+
+No class on Monday! It is Memorial Day!
+
+```{r}
+j = "Some Lake Fun"
+j
+```
+
+Watched 11 little Mallard ducklings
+
+![](ducks.jpeg)

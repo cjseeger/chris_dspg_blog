@@ -21,6 +21,13 @@
     "text": "Chris’s DSPG Blog for 2023.\n\ninstall.packages(c(\"tidycensus\", \"tidyverse\"))\nlibrary(tidycensus)\nlibrary(tidyverse)\n\nvars <- load_variables(2021, \"acs5\")\nView(vars)\n\n\nExample of an embeded Tableau Dashboard\n\n\n\n  \n\n\n    \n\n\n\n  \n  \n  Chris Practice\n  \n     \n    \n  \n  \n\n  \n  \n\n\nTrying to display a Tableau page."
   },
   {
+    "objectID": "posts/week3/memorialDay.html",
+    "href": "posts/week3/memorialDay.html",
+    "title": "Week 3 Blog",
+    "section": "",
+    "text": "Chris’s DSPG Blog for 2023 - This is week 3.\nNo class on Monday! It is Memorial Day!\n\nj = \"Some Lake Fun\"\nj\n\n[1] \"Some Lake Fun\"\n\n\nWatched 11 little Mallard ducklings"
+  },
+  {
     "objectID": "posts/week3/index.html",
     "href": "posts/week3/index.html",
     "title": "Week 3 Blog",
@@ -32,7 +39,7 @@
     "href": "index.html",
     "title": "chris_dspg_blog",
     "section": "",
-    "text": "Week 3 Blog\n\n\n\n\n\n\n\nWeek Three\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2 Blog\n\n\n\n\n\n\n\nWeek Two\n\n\n\n\n\n\n\n\n\n\n\nMay 25, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nabout\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nChristopher J. Seeger\n\n\n\n\n\n\nNo matching items"
+    "text": "Week 3 Blog\n\n\n\n\n\n\n\nWeek Three\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n  \n\n\n\n\nWeek 3 Blog\n\n\n\n\n\n\n\nWeek Three\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2 Blog\n\n\n\n\n\n\n\nWeek Two\n\n\n\n\n\n\n\n\n\n\n\nMay 25, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nabout\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nChristopher J. Seeger\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
