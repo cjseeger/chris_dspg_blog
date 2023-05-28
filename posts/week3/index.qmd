@@ -1,0 +1,15 @@
+---
+title: "Week 3 Blog"
+author: "Chris Seeger"
+date: "2023-05-29"
+categories: "Week Three"
+---
+
+# Chris's DSPG Blog for 2023 - This is week 3.
+
+No class on Monday!
+
+```{r}
+j = "Hello World"
+j
+```
