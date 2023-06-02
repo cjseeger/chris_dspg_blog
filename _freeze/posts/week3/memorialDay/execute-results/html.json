@@ -1,7 +1,7 @@
 {
-  "hash": "e4cee48e008b275280f69b64c98073ae",
+  "hash": "8f6388e0c2d2fe30151a8772fdbc02e9",
   "result": {
-    "markdown": "---\ntitle: \"Week 3 Blog\"\nauthor: \"Chris Seeger\"\ndate: \"2023-05-29\"\ncategories: \"Week Three\"\n---\n\n\n# Chris's DSPG Blog for 2023 - This is week 3.\n\nNo class on Monday! It is Memorial Day!\n\n\n::: {.cell}\n\n```{.r .cell-code}\nj = \"Some Lake Fun\"\nj\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Some Lake Fun\"\n```\n:::\n:::\n\n\nWatched 11 little Mallard ducklings\n\n![](ducks.jpeg)\n",
+    "markdown": "---\ntitle: \"Week 3 Blog\"\nauthor: \"Chris Seeger\"\ndate: \"2023-05-29\"\ncategories: \"Memorial Day\"\n---\n\n\n# Chris's DSPG Blog for 2023 - This is week 3.\n\nNo class on Monday! It is Memorial Day!\n\n\n::: {.cell}\n\n```{.r .cell-code}\nj = \"Some Lake Fun\"\nj\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Some Lake Fun\"\n```\n:::\n:::\n\n\nWatched 11 little Mallard ducklings\n\n![](ducks.jpeg)\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
