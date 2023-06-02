@@ -7,7 +7,7 @@ categories: "Week Three"
 
 # Chris's DSPG Blog for 2023 - This is week 3.
 
-No class on Monday! It is Memorial Day!
+No class on Monday! It is Memorial Day! In the week prior I learned about making a Blog in R. I should have some code here, but lake photos are more fun.
 
 ```{r}
 j = "Hello World"
@@ -17,3 +17,7 @@ j
 Tried out a fly on an old fly rod and was successful!
 
 ![](bluegill.jpeg)
+
+Watched 11 little Mallard ducklings while ate the lake ove rhte holiday weekend.
+
+![](ducks.jpeg)

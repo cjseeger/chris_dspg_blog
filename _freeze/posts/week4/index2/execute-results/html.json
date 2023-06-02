@@ -1,0 +1,14 @@
+{
+  "hash": "36fec79059c9592de126ec70e29297d5",
+  "result": {
+    "markdown": "---\ntitle: \"Week 4\"\nauthor: \"Chris Seeger\"\ndate: \"2023-05-29\"\ncategories: \"Week Four\"\n---\n\n\n# Week 4.\n\nBrought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nj = \"Beaver cut Maple Log\"\nj\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Beaver cut Maple Log\"\n```\n:::\n:::\n\n\n![](maple1.jpg) ![](maple2.jpg)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
