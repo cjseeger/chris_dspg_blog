@@ -1,5 +1,5 @@
 ---
-title: "chris_dspg_blog"
+title: "chris_dspg_blogg"
 listing:
   contents: posts
   sort: "date desc"
