@@ -2,7 +2,7 @@
 title: "Welcome To My Blog"
 author: "Christopher J. Seeger"
 date: "2023-05-20"
-categories: [week11, about, flowers, photography]
+categories: [week 1, about, flowers, photography]
 image: "flower.jpg"
 ---
 

@@ -1,19 +1,23 @@
 ---
 title: "About"
-image: profile.jpg
+image: cjseeger_profile.jpg
 about:
   template: jolla
   links:
+    - icon: "isu.png"
+      text: ISU    
+      href: https://faculty.sites.iastate.edu/cjseeger/
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+      text: Twitter   
+      href: https://twitter.com/profseeger
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/christopher-j-seeger/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/cjseeger/chris_dspg_blog
 ---
 
-About this blog
+## **Christopher J. Seeger**
+
+I am Professor Seeger at Iowa State University where I am a Professor and Extension Specialist.
