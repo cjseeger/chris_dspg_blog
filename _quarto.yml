@@ -3,14 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "chris_dspg_blog"
+  title: "Chris's 2023 DSPG Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/cjseeger/chris_dspg_blog
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/profseeger
+      - icon: linkedin
+        href: https://www.linkedin.com/in/christopher-j-seeger/
+
 format:
   html:
     theme: cosmo

@@ -1,11 +1,11 @@
 ---
-title: "Week 2 Blog"
+title: "Week 2"
 author: "Chris Seeger"
 date: "2023-05-25"
 categories: "Week Two"
 ---
 
-# Chris's DSPG Blog for 2023.
+# Chris's DSPG Blog Week 2
 
 ```{r warning=FALSE, message=FALSE, eval=FALSE}
 install.packages(c("tidycensus", "tidyverse"))

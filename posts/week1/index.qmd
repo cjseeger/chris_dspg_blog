@@ -2,11 +2,14 @@
 title: "Welcome To My Blog"
 author: "Christopher J. Seeger"
 date: "2023-05-20"
-categories: [about]
+categories: [week11, about, flowers, photography]
+image: "flower.jpg"
 ---
 
 This is Chris's first post in a Quarto blog. Welcome!
 
-![](thumbnail.jpg)
+This columbine was planted two years ago, but did not grow well last year. This year it looks very nice.
+
+![](thumbnail.jpg) ![](flower.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
