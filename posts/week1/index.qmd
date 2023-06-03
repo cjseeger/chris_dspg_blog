@@ -1,5 +1,5 @@
 ---
-title: "Welcome To My Blog"
+title: "Welcome to my Blog"
 author: "Christopher J. Seeger"
 date: "2023-05-20"
 categories: [week 1, about, flowers, photography]
@@ -11,5 +11,3 @@ This is Chris's first post in a Quarto blog. Welcome!
 This columbine was planted two years ago, but did not grow well last year. This year it looks very nice.
 
 ![](flower.jpg)
-
-

@@ -5,8 +5,6 @@ date: "2023-05-29"
 categories: "Week Three"
 ---
 
-# Chris's DSPG Blog for 2023 - This is week 3.
-
 No class on Monday! It is Memorial Day! In the week prior I learned about making a Blog in R. I should have some code here, but lake photos are more fun.
 
 ```{r}
