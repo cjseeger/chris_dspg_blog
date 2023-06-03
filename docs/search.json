@@ -18,7 +18,7 @@
     "href": "posts/week4/index.html",
     "title": "Week 4",
     "section": "",
-    "text": "Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.\n\nj = \"Beaver cut Maple Log\"\nj\n\n[1] \"Beaver cut Maple Log\""
+    "text": "Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.\n\nbeaver <- \"A maple tree cut down by a beaver\"\nchainsaw <- \"and then cut into logs \"\nbandsaw <- \"makes great source for woodworking projects!\"\n\nwoodworking = paste(beaver, chainsaw, bandsaw)\nwoodworking\n\n[1] \"A maple tree cut down by a beaver and then cut into logs  makes great source for woodworking projects!\""
   },
   {
     "objectID": "posts/week3/index.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "chris_dspg_blogg",
+    "title": "Welcome",
     "section": "",
-    "text": "Week 4\n\n\n\n\n\n\n\nWeek Four\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n  \n\n\n\n\nWeek 3\n\n\n\n\n\n\n\nWeek Three\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\nWeek Two\n\n\n\n\n\n\n\n\n\n\n\nMay 25, 2023\n\n\nChris Seeger\n\n\n\n\n\n\n  \n\n\n\n\nWelcome to my Blog\n\n\n\n\n\n\n\nweek 1\n\n\nabout\n\n\nflowers\n\n\nphotography\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nChristopher J. Seeger\n\n\n\n\n\n\nNo matching items"
+    "text": "Week 4\n\n\n\nweek 4\n\n\nWood Working\n\n\nSawmill\n\n\n\n\n\n\n\nChris Seeger\n\n\nJun 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\nWeek Three\n\n\n\n\n\n\n\nChris Seeger\n\n\nMay 29, 2023\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nWeek 2\n\n\n\nWeek Two\n\n\n\n\n\n\n\nChris Seeger\n\n\nMay 25, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my Blog\n\n\n\nweek 1\n\n\nabout\n\n\nflowers\n\n\nphotography\n\n\n\n\n\n\n\nChristopher J. Seeger\n\n\nMay 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

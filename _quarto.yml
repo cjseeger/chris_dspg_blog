@@ -16,7 +16,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lumon
     css: styles.css
 
 editor: visual

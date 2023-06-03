@@ -1,7 +1,7 @@
 {
-  "hash": "c104b23fe26c71ee6a4874ceff8f7048",
+  "hash": "f9169895ac091cca5d8be32fb6719bd3",
   "result": {
-    "markdown": "---\ntitle: \"Week 4\"\nauthor: \"Chris Seeger\"\ndate: \"2023-05-29\"\ncategories: \"Week Four\"\n---\n\n\n\nBrought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nj = \"Beaver cut Maple Log\"\nj\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Beaver cut Maple Log\"\n```\n:::\n:::\n\n\n![](maple1.jpg) ![](maple2.jpg)\n",
+    "markdown": "---\ntitle: \"Week 4\"\nauthor: \"Chris Seeger\"\ndate: \"6-5-2023\"\ndate-modified: \"6/5/2023\"\ncategories: [week 4, Wood Working, Sawmill]\n---\n\n\nBrought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nbeaver <- \"A maple tree cut down by a beaver\"\nchainsaw <- \"and then cut into logs \"\nbandsaw <- \"makes great source for woodworking projects!\"\n\nwoodworking = paste(beaver, chainsaw, bandsaw)\nwoodworking\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"A maple tree cut down by a beaver and then cut into logs  makes great source for woodworking projects!\"\n```\n:::\n:::\n\n\n![](maple1.jpg) \n![](maple2.jpg)\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

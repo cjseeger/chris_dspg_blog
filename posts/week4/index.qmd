@@ -1,16 +1,22 @@
 ---
 title: "Week 4"
 author: "Chris Seeger"
-date: "2023-05-29"
-categories: "Week Four"
+date: "6-5-2023"
+date-modified: "6/5/2023"
+categories: [week 4, Wood Working, Sawmill]
 ---
-
 
 Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.
 
 ```{r}
-j = "Beaver cut Maple Log"
-j
+beaver <- "A maple tree cut down by a beaver"
+chainsaw <- "and then cut into logs "
+bandsaw <- "makes great source for woodworking projects!"
+
+woodworking = paste(beaver, chainsaw, bandsaw)
+woodworking
+
 ```
 
-![](maple1.jpg) ![](maple2.jpg)
+![](maple1.jpg) 
+![](maple2.jpg)
