@@ -2,7 +2,7 @@
 title: "Week 4"
 author: "Chris Seeger"
 date: "6-5-2023"
-date-modified: "6/5/2023"
+date-modified: "6/11/2023"
 categories: [Wood Working, Sawmill, DSPG, R]
 ---
 
