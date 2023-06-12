@@ -1,0 +1,14 @@
+{
+  "hash": "3183612206106f8f4ad5b985ee06b6e3",
+  "result": {
+    "markdown": "---\ntitle: \"Week 5\"\nauthor: \"Chris Seeger\"\ndate: \"6-12-2023\"\ndate-modified: \"6/12/2023\"\ncategories: [DSPG]\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nhello = \"Nothing here yet!\"\nhello\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"Nothing here yet!\"\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

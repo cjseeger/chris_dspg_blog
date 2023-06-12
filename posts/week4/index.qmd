@@ -3,10 +3,12 @@ title: "Week 4"
 author: "Chris Seeger"
 date: "6-5-2023"
 date-modified: "6/5/2023"
-categories: [week 4, Wood Working, Sawmill]
+categories: [Wood Working, Sawmill, DSPG, R]
 ---
 
-Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.
+####  Long Lake Maple
+
+Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks. Of course I need to add some code to this blog, so here is a back story for the maple log.
 
 ```{r}
 beaver <- "A maple tree cut down by a beaver"
@@ -18,5 +20,47 @@ woodworking
 
 ```
 
-![](maple1.jpg) 
-![](maple2.jpg)
+
+Note my old bandsaw sled.
+
+![](maple1.jpg) ![](maple2.jpg)
+
+Unfortunately, I had to fix my 3' bandsaw sled for ripping logs. I recycled the wood off an old pallet and glued it to the original board to make it thicker. It appears to be much stronger now. The issue was that there was not enough wood to scree the track in tight.
+
+At the end of the week I did some more woodworking, here is the process and results.
+
+#### Local Walnut 
+
+I have had this outside edge of Walnut in the shop for 18 months. Put it on the sled and trimmed one edge
+
+![](walnut1.jpeg) 
+As you can see here, after trimming the edges I ripped it into two boards.
+![](walnut2.jpeg)
+
+![](walnut3.jpeg)
+
+And the other side. I like the bluish color this local walnut has.
+
+![](walnut4.jpeg)
+
+####  Long Lake Red Oak
+Brought this log back from Long Lake and cleaned it up a bit.
+
+![](oak1.jpeg)
+![](oak2.jpeg)
+
+![](oak3.jpeg)
+
+![](oak4.jpeg)
+
+![](oak5.jpeg)
+
+
+####  Local Bigtooth Aspen
+Examples of the condition of the aspen after it was ripped with a chain saw.
+![](aspen1.jpeg)
+
+Planning down to 3/4" still leaves a few chainsaw marks.
+![](aspen2.jpeg)
+But the other side looks better.
+![](aspen3.jpeg)

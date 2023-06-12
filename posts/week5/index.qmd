@@ -1,0 +1,13 @@
+---
+title: "Week 5"
+author: "Chris Seeger"
+date: "6-12-2023"
+date-modified: "6/12/2023"
+categories: [DSPG]
+---
+
+
+```{r}
+hello = "Nothing here yet so it defaults to the picture of Chris!"
+hello
+```

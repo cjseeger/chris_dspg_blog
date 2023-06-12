@@ -2,10 +2,11 @@
 title: "Week 2"
 author: "Chris Seeger"
 date: "2023-05-25"
-categories: "Week Two"
+categories: [DSPG, ACS Data, Languages, Tableau]
+image: "tableau_languagesSpoken_moe.jpg"
 ---
 
-# Chris's DSPG Blog Week 2-
+# Week 2
 
 ```{r warning=FALSE, message=FALSE, eval=FALSE}
 install.packages(c("tidycensus", "tidyverse"))

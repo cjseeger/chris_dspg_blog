@@ -2,10 +2,14 @@
 title: "Welcome"
 listing:
   contents: posts
-  sort: "date desc"
+  image-placeholder: "defaultBlogImage.jpg"
+
+  sort:
+    - "date desc"
+    - "title desc"
   type: grid
   categories: true
-  sort-ui: false
+  sort-ui: true
   filter-ui: false
 page-layout: full
 title-block-banner: true

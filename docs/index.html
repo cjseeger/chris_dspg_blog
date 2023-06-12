@@ -158,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Sawmill">Sawmill <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Week Three">Week Three <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Week Two">Week Two <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Wood Working">Wood Working <span class="quarto-category-count">(1)</span></div><div class="category" data-category="about">about <span class="quarto-category-count">(1)</span></div><div class="category" data-category="flowers">flowers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="photography">photography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="week 1">week 1 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="week 4">week 4 <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="ACS Data">ACS Data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DSPG">DSPG <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Languages">Languages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Photography">Photography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Sawmill">Sawmill <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Tableau">Tableau <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Wildlife">Wildlife <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Wood Working">Wood Working <span class="quarto-category-count">(1)</span></div><div class="category" data-category="flowers">flowers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="photography">photography <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -170,8 +170,59 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="week 4,Wood Working,Sawmill" data-listing-date-sort="1685941200000" data-listing-file-modified-sort="1685804036518" data-listing-reading-time-sort="0.315">
+<div class="g-col-1" data-index="0" data-categories="DSPG" data-listing-date-sort="1686546000000" data-listing-file-modified-sort="1686162333763" data-listing-reading-time-sort="0.065">
+<a href="./posts/week5/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="defaultBlogImage.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Week 5
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('DSPG'); return false;">
+DSPG
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Chris Seeger
+</div>
+<div class="listing-date">
+Jun 12, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Wood Working,Sawmill,DSPG,R" data-listing-date-sort="1685941200000" data-listing-file-modified-sort="1686536486383" data-listing-reading-time-sort="1.285">
 <a href="./posts/week4/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -182,18 +233,21 @@ ul.task-list li input[type="checkbox"] {
 Week 4
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('week 4'); return false;">
-week 4
-</div>
 <div class="listing-category" onclick="window.quartoListingCategory('Wood Working'); return false;">
 Wood Working
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('Sawmill'); return false;">
 Sawmill
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('DSPG'); return false;">
+DSPG
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
 </div>
 <div class="card-text listing-description">
-Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.
+Brought a maple log home from the lake. Slabbed it out when I got home and…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -207,7 +261,7 @@ Jun 5, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Week Three" data-listing-date-sort="1685336400000" data-listing-file-modified-sort="1685762327860" data-listing-reading-time-sort="0.29">
+<div class="g-col-1" data-index="2" data-categories="Photography,Wildlife" data-listing-date-sort="1685336400000" data-listing-file-modified-sort="1686162193473" data-listing-reading-time-sort="0.355">
 <a href="./posts/week3/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -218,8 +272,11 @@ Jun 5, 2023
 Week 3
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Week Three'); return false;">
-Week Three
+<div class="listing-category" onclick="window.quartoListingCategory('Photography'); return false;">
+Photography
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Wildlife'); return false;">
+Wildlife
 </div>
 </div>
 <div class="card-text listing-description">
@@ -237,19 +294,28 @@ May 29, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Week Two" data-listing-date-sort="1684990800000" data-listing-file-modified-sort="1685762233882" data-listing-reading-time-sort="1.12">
+<div class="g-col-1" data-index="3" data-categories="DSPG,ACS Data,Languages,Tableau" data-listing-date-sort="1684990800000" data-listing-file-modified-sort="1686161741239" data-listing-reading-time-sort="1.12">
 <a href="./posts/week2/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="card-img-bg" style="height: 150px;">
-&nbsp;
-</div>
+<p class="card-img-top">
+<img src="./posts/week2/tableau_languagesSpoken_moe.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Week 2
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Week Two'); return false;">
-Week Two
+<div class="listing-category" onclick="window.quartoListingCategory('DSPG'); return false;">
+DSPG
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ACS Data'); return false;">
+ACS Data
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Languages'); return false;">
+Languages
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Tableau'); return false;">
+Tableau
 </div>
 </div>
 <div class="card-text listing-description">
@@ -267,7 +333,7 @@ May 25, 2023
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="week 1,about,flowers,photography" data-listing-date-sort="1684558800000" data-listing-file-modified-sort="1685762174378" data-listing-reading-time-sort="0.145">
+<div class="g-col-1" data-index="4" data-categories="flowers,photography" data-listing-date-sort="1684558800000" data-listing-file-modified-sort="1686161707525" data-listing-reading-time-sort="0.32">
 <a href="./posts/week1/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -278,12 +344,6 @@ May 25, 2023
 Welcome to my Blog
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('week 1'); return false;">
-week 1
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('about'); return false;">
-about
-</div>
 <div class="listing-category" onclick="window.quartoListingCategory('flowers'); return false;">
 flowers
 </div>
@@ -292,7 +352,7 @@ photography
 </div>
 </div>
 <div class="card-text listing-description">
-This is Chris’s first post in a Quarto blog. Welcome!
+This is Chris’s first post in a Quarto blog. I…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">

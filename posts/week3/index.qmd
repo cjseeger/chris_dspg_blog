@@ -2,14 +2,17 @@
 title: "Week 3"
 author: "Chris Seeger"
 date: "2023-05-29"
-categories: "Week Three"
+categories: [Photography, Wildlife]
+image: "bluegill.jpeg"
 ---
 
 No class on Monday! It is Memorial Day! In the week prior I learned about making a Blog in R. I should have some code here, but lake photos are more fun.
 
 ```{r}
-j = "Hello World"
-j
+a <- "Hello World!"
+b <- "Now I have some code added."
+message <- paste(a, b, sep=" ", collapse=NULL)
+message
 ```
 
 Tried out a fly on an old fly rod and was successful!

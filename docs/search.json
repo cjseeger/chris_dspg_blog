@@ -4,7 +4,7 @@
     "href": "posts/week1/index.html",
     "title": "Welcome to my Blog",
     "section": "",
-    "text": "This is Chris’s first post in a Quarto blog. Welcome!\nThis columbine was planted two years ago, but did not grow well last year. This year it looks very nice."
+    "text": "This is Chris’s first post in a Quarto blog. I needed to go back and created something for week one of DSPG. I was curious how to establish categories and set the default images, so this blog focuses on a few flowers in my yard.\nThe columbine was planted two years ago, but did not grow well last year. This year it looks very nice."
   },
   {
     "objectID": "posts/week2/index.html",
@@ -14,11 +14,18 @@
     "text": "Chris’s DSPG Blog Week 2-\n\ninstall.packages(c(\"tidycensus\", \"tidyverse\"))\nlibrary(tidycensus)\nlibrary(tidyverse)\n\nvars <- load_variables(2021, \"acs5\")\nView(vars)\n\n\nExample of an embeded Tableau Dashboard\n\n\n\n  \n\n\n    \n\n\n\n  \n  \n  Chris Practice\n  \n     \n    \n  \n  \n\n  \n  \n\n\nTrying to display a Tableau page."
   },
   {
+    "objectID": "posts/week5/index.html",
+    "href": "posts/week5/index.html",
+    "title": "Week 5",
+    "section": "",
+    "text": "hello = \"Nothing here yet!\"\nhello\n\n[1] \"Nothing here yet!\""
+  },
+  {
     "objectID": "posts/week4/index.html",
     "href": "posts/week4/index.html",
     "title": "Week 4",
     "section": "",
-    "text": "Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks.\n\nbeaver <- \"A maple tree cut down by a beaver\"\nchainsaw <- \"and then cut into logs \"\nbandsaw <- \"makes great source for woodworking projects!\"\n\nwoodworking = paste(beaver, chainsaw, bandsaw)\nwoodworking\n\n[1] \"A maple tree cut down by a beaver and then cut into logs  makes great source for woodworking projects!\""
+    "text": "Long Lake Maple\nBrought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks. Of course I need to add some code to this blog, so here is a back story for the maple log.\n\nbeaver <- \"A maple tree cut down by a beaver\"\nchainsaw <- \"and then cut into logs \"\nbandsaw <- \"makes great source for woodworking projects!\"\n\nwoodworking = paste(beaver, chainsaw, bandsaw)\nwoodworking\n\n[1] \"A maple tree cut down by a beaver and then cut into logs  makes great source for woodworking projects!\"\n\n\nNote my old bandsaw sled.\n \nUnfortunately, I had to fix my 3’ bandsaw sled for ripping logs. I recycled the wood off an old pallet and glued it to the original board to make it thicker. It appears to be much stronger now. The issue was that there was not enough wood to scree the track in tight.\nAt the end of the week I did some more woodworking, here is the process and results.\n\n\nLocal Walnut\nI have had this outside edge of Walnut in the shop for 18 months. Put it on the sled and trimmed one edge\n As you can see here, after trimming the edges I ripped it into two boards. \n\nAnd the other side. I like the bluish color this local walnut has.\n\n\n\nLong Lake Red Oak\nBrought this log back from Long Lake and cleaned it up a bit.\n \n\n\n\n\n\nLocal Bigtooth Aspen\nExamples of the condition of the aspen after it was ripped with a chain saw. \nPlanning down to 3/4” still leaves a few chainsaw marks.  But the other side looks better."
   },
   {
     "objectID": "posts/week3/index.html",
@@ -32,7 +39,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Week 4\n\n\n\nweek 4\n\n\nWood Working\n\n\nSawmill\n\n\n\n\n\n\n\nChris Seeger\n\n\nJun 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\nWeek Three\n\n\n\n\n\n\n\nChris Seeger\n\n\nMay 29, 2023\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nWeek 2\n\n\n\nWeek Two\n\n\n\n\n\n\n\nChris Seeger\n\n\nMay 25, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my Blog\n\n\n\nweek 1\n\n\nabout\n\n\nflowers\n\n\nphotography\n\n\n\n\n\n\n\nChristopher J. Seeger\n\n\nMay 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\nDSPG\n\n\n\n\n\n\n\nChris Seeger\n\n\nJun 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\nWood Working\n\n\nSawmill\n\n\nDSPG\n\n\nR\n\n\n\n\n\n\n\nChris Seeger\n\n\nJun 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\nPhotography\n\n\nWildlife\n\n\n\n\n\n\n\nChris Seeger\n\n\nMay 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\nDSPG\n\n\nACS Data\n\n\nLanguages\n\n\nTableau\n\n\n\n\n\n\n\nChris Seeger\n\n\nMay 25, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my Blog\n\n\n\nflowers\n\n\nphotography\n\n\n\n\n\n\n\nChristopher J. Seeger\n\n\nMay 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
