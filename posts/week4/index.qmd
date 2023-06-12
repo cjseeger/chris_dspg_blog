@@ -6,7 +6,7 @@ date-modified: "6/5/2023"
 categories: [Wood Working, Sawmill, DSPG, R]
 ---
 
-####  Long Lake Maple
+#### Long Lake Maple
 
 Brought a maple log home from the lake. Slabbed it out when I got home and have it on the drying rack. Hopefully it will not warp and I can use it for guitar necks. Of course I need to add some code to this blog, so here is a back story for the maple log.
 
@@ -20,7 +20,6 @@ woodworking
 
 ```
 
-
 Note my old bandsaw sled.
 
 ![](maple1.jpg) ![](maple2.jpg)
@@ -29,13 +28,11 @@ Unfortunately, I had to fix my 3' bandsaw sled for ripping logs. I recycled the 
 
 At the end of the week I did some more woodworking, here is the process and results.
 
-#### Local Walnut 
+#### Local Walnut
 
 I have had this outside edge of Walnut in the shop for 18 months. Put it on the sled and trimmed one edge
 
-![](walnut1.jpeg) 
-As you can see here, after trimming the edges I ripped it into two boards.
-![](walnut2.jpeg)
+![](walnut1.jpeg) As you can see here, after trimming the edges I ripped it into two boards. ![](walnut2.jpeg)
 
 ![](walnut3.jpeg)
 
@@ -43,11 +40,11 @@ And the other side. I like the bluish color this local walnut has.
 
 ![](walnut4.jpeg)
 
-####  Long Lake Red Oak
+#### Long Lake Red Oak
+
 Brought this log back from Long Lake and cleaned it up a bit.
 
-![](oak1.jpeg)
-![](oak2.jpeg)
+![](oak1.jpeg) ![](oak2.jpeg)
 
 ![](oak3.jpeg)
 
@@ -55,12 +52,12 @@ Brought this log back from Long Lake and cleaned it up a bit.
 
 ![](oak5.jpeg)
 
+#### Local Bigtooth Aspen
 
-####  Local Bigtooth Aspen
-Examples of the condition of the aspen after it was ripped with a chain saw.
-![](aspen1.jpeg)
+Examples of the condition of the aspen after it was ripped with a chain saw. ![](aspen1.jpeg)
 
-Planning down to 3/4" still leaves a few chainsaw marks.
-![](aspen2.jpeg)
+Planning down to 3/4" still leaves a few chainsaw marks. ![](aspen2.jpeg)
+
 But the other side looks better.
+
 ![](aspen3.jpeg)
