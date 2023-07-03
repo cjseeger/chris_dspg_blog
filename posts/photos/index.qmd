@@ -1,0 +1,22 @@
+---
+title: "Week 2"
+author: "Chris Seeger"
+date: "2023-05-25"
+categories: [DSPG, ACS Data, Languages, Tableau]
+filters:
+   - lightbox
+lightbox: auto
+image: "loon6.jpeg"
+---
+
+
+---
+title: Simple Lightbox Example
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Testing out a photo Gallery
+
+![](loon1.jpeg) ![](loon2.jpeg) ![](loon3.jpeg)
